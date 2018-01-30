@@ -1,6 +1,6 @@
-Web QR Decoder
+Web QR Decoder 
 ==
-A simple web application that use device camera to decode QR Code
+A simple web application that use device camera to decode QR Code by Igor Golban
 
 ### Options
 | option       | Type     | Default  | Description
